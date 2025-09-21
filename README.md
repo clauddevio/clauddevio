@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I’m Claud 👋
 
-<!--
-**clauddevio/clauddevio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+**Android learner → Android developer (in progress)**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🌱 Currently learning: Kotlin, Jetpack Compose, Gradle, testing
+- 🧰 Tools: Android Studio, Git, GitHub, ADB, Retrofit
+- 🎯 2025 goal: Ship 3 small Android apps
+- 📫 Reach me: claud.devapp@gmail.com
+
+
+## Featured Projects - Pending
+
+## Learning Journal
+I log progress here → [learning-journal](https://github.com/clauddevio/learning-journal)
+
+
+## What’s next - Pending
+
+
+---
+**Stack:** 🟣 Kotlin · 🧩 Jetpack Compose · 🧪 JUnit/MockK · 🧰 Gradle · 🌐 Retrofit
